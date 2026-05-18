@@ -1,0 +1,8 @@
+{
+  "id": "c-andersson",
+  "name": "Anna Andersson",
+  "contactType": "PERSON",
+  "personalNumber": "19851012-1234",
+  "email": "anna.andersson@example.se",
+  "organizationId": "demo-firma-ab"
+}

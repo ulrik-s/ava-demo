@@ -1,0 +1,8 @@
+{
+  "id": "c-persson",
+  "name": "Björn Persson",
+  "contactType": "PERSON",
+  "personalNumber": "19831102-5678",
+  "email": "bjorn.persson@example.se",
+  "organizationId": "demo-firma-ab"
+}

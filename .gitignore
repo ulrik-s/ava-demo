@@ -1,0 +1,2 @@
+# Ignorera klient-cache som inte ska deelas
+.ava/cache.db

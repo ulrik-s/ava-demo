@@ -1,0 +1,8 @@
+{
+  "id": "u-bjorn",
+  "email": "bjorn@demo-firma.se",
+  "name": "Björn Biträde",
+  "role": "ASSISTANT",
+  "sshPublicKeys": [],
+  "organizationId": "demo-firma-ab"
+}
