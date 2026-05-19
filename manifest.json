@@ -1,0 +1,16 @@
+{
+  "paths": [
+    ".ava/users/anna@demo-firma.se.json",
+    ".ava/users/bjorn@demo-firma.se.json",
+    "contacts/c-andersson.json",
+    "contacts/c-brf-vinkeln.json",
+    "contacts/c-eriksson-arvinge.json",
+    "contacts/c-erikssons.json",
+    "contacts/c-persson.json",
+    "matters/active/m-arvskifte.json",
+    "matters/active/m-bostadsratt.json",
+    "matters/active/m-vardnad.json"
+  ],
+  "generatedAt": "2026-05-19T06:25:44.834Z",
+  "version": 1
+}
