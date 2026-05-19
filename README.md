@@ -8,7 +8,7 @@ Fiktiv data för att demonstrera AVA i webbläsaren utan en server.
 - 7 × `contacts/`
 - 3 × `matters/`
 - 8 × `matter-contacts/`
-- 7 × `documents/`
+- 14 × `documents/`
 - 13 × `time-entries/`
 - 3 × `expenses/`
 - 2 × `invoices/`
