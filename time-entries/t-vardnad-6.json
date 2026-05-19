@@ -1,0 +1,11 @@
+{
+  "id": "t-vardnad-6",
+  "matterId": "m-vardnad",
+  "userId": "u-bjorn",
+  "date": "2026-04-02T00:00:00.000Z",
+  "minutes": 120,
+  "description": "Bevisförteckning, sortering av kommunikation.",
+  "billable": true,
+  "hourlyRate": 1800,
+  "organizationId": "demo-firma-ab"
+}

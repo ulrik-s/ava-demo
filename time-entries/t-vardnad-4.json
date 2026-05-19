@@ -1,0 +1,11 @@
+{
+  "id": "t-vardnad-4",
+  "matterId": "m-vardnad",
+  "userId": "u-anna",
+  "date": "2026-03-05T00:00:00.000Z",
+  "minutes": 45,
+  "description": "Telefonmöte med klient kring umgängesrätt.",
+  "billable": true,
+  "hourlyRate": 2800,
+  "organizationId": "demo-firma-ab"
+}

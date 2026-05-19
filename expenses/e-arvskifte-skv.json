@@ -1,0 +1,10 @@
+{
+  "id": "e-arvskifte-skv",
+  "matterId": "m-arvskifte",
+  "userId": "u-anna",
+  "date": "2026-01-22T00:00:00.000Z",
+  "amount": 25000,
+  "description": "Registreringsavgift Skatteverket",
+  "billable": true,
+  "organizationId": "demo-firma-ab"
+}

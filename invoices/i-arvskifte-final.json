@@ -1,0 +1,14 @@
+{
+  "id": "i-arvskifte-final",
+  "matterId": "m-arvskifte",
+  "invoiceNumber": "2026-001",
+  "type": "FINAL",
+  "status": "PAID",
+  "amountExclVat": 1890000,
+  "vat": 472500,
+  "amountInclVat": 2362500,
+  "issuedAt": "2026-01-25T00:00:00.000Z",
+  "dueAt": "2026-02-25T00:00:00.000Z",
+  "paidAt": "2026-02-20T00:00:00.000Z",
+  "organizationId": "demo-firma-ab"
+}

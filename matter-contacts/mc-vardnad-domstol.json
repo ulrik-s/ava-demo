@@ -1,0 +1,8 @@
+{
+  "id": "mc-vardnad-domstol",
+  "matterId": "m-vardnad",
+  "contactId": "c-tingsratten",
+  "role": "DOMSTOL",
+  "organizationId": "demo-firma-ab",
+  "createdAt": "2026-03-01T00:00:00.000Z"
+}

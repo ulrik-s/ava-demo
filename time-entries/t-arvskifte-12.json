@@ -1,0 +1,11 @@
+{
+  "id": "t-arvskifte-12",
+  "matterId": "m-arvskifte",
+  "userId": "u-anna",
+  "date": "2026-01-20T00:00:00.000Z",
+  "minutes": 90,
+  "description": "Möte med Skatteverket-handläggare.",
+  "billable": true,
+  "hourlyRate": 2800,
+  "organizationId": "demo-firma-ab"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "d-brf-stadgar",
+  "matterId": "m-bostadsratt",
+  "fileName": "BRF Vinkeln stadgar.pdf",
+  "mimeType": "application/pdf",
+  "sizeBytes": 96768,
+  "storagePath": "demo/d-brf-stadgar.pdf",
+  "documentType": "Stadgar",
+  "summary": "Stadgar antagna 2018. §32 reglerar ansvar för vattenskador.",
+  "uploadedAt": "2026-03-10T00:00:00.000Z",
+  "uploadedById": "u-anna",
+  "organizationId": "demo-firma-ab",
+  "analysisStatus": "COMPLETED"
+}

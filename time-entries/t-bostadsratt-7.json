@@ -1,0 +1,11 @@
+{
+  "id": "t-bostadsratt-7",
+  "matterId": "m-bostadsratt",
+  "userId": "u-anna",
+  "date": "2026-03-08T00:00:00.000Z",
+  "minutes": 45,
+  "description": "Inledande genomgång av ärendet.",
+  "billable": true,
+  "hourlyRate": 2800,
+  "organizationId": "demo-firma-ab"
+}

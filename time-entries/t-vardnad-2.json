@@ -1,0 +1,11 @@
+{
+  "id": "t-vardnad-2",
+  "matterId": "m-vardnad",
+  "userId": "u-anna",
+  "date": "2026-02-18T00:00:00.000Z",
+  "minutes": 90,
+  "description": "Granskning av handlingar, möte med motpartsombud.",
+  "billable": true,
+  "hourlyRate": 2800,
+  "organizationId": "demo-firma-ab"
+}

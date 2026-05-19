@@ -3,6 +3,9 @@
   "matterNumber": "2026-0003",
   "title": "Arvskifte efter Eriksson",
   "status": "CLOSED",
+  "matterType": "Familjerätt",
+  "description": "Bouppteckning och arvskifte efter Karl-Erik Eriksson, avliden 2025-11-04.",
   "organizationId": "demo-firma-ab",
-  "notes": "Bouppteckning klar. Arvskifte registrerat hos Skatteverket."
+  "notes": "Bouppteckning klar. Arvskifte registrerat hos Skatteverket.",
+  "createdAt": "2025-12-01T00:00:00.000Z"
 }

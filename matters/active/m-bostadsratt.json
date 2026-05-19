@@ -3,6 +3,9 @@
   "matterNumber": "2026-0002",
   "title": "Bostadsrätt – tvist med BRF Vinkeln",
   "status": "ACTIVE",
+  "matterType": "Fastighetsrätt",
+  "description": "BRF har avslagit klientens anspråk på ersättning för vattenskada. Föreningens ansvar enligt stadgar oklart.",
   "organizationId": "demo-firma-ab",
-  "notes": "Klient har fått överklagat avslag på reparationsanspråk. Granskar stadgar och brf-stämmoprotokoll."
+  "notes": "Klient har fått överklagat avslag på reparationsanspråk. Granskar stadgar och brf-stämmoprotokoll.",
+  "createdAt": "2026-03-08T00:00:00.000Z"
 }

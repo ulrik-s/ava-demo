@@ -1,0 +1,13 @@
+{
+  "id": "d-brf-avslag",
+  "matterId": "m-bostadsratt",
+  "fileName": "Avslag från styrelsen.pdf",
+  "mimeType": "application/pdf",
+  "sizeBytes": 51200,
+  "storagePath": "demo/d-brf-avslag.pdf",
+  "documentType": "Brev",
+  "uploadedAt": "2026-03-09T00:00:00.000Z",
+  "uploadedById": "u-anna",
+  "organizationId": "demo-firma-ab",
+  "analysisStatus": "COMPLETED"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "t-arvskifte-13",
+  "matterId": "m-arvskifte",
+  "userId": "u-anna",
+  "date": "2026-01-22T00:00:00.000Z",
+  "minutes": 180,
+  "description": "Arvskifteshandling och uppdelning.",
+  "billable": true,
+  "hourlyRate": 2800,
+  "organizationId": "demo-firma-ab"
+}

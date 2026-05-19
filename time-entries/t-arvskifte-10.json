@@ -1,0 +1,11 @@
+{
+  "id": "t-arvskifte-10",
+  "matterId": "m-arvskifte",
+  "userId": "u-anna",
+  "date": "2025-12-05T00:00:00.000Z",
+  "minutes": 120,
+  "description": "Klientmöte med arvingar.",
+  "billable": true,
+  "hourlyRate": 2800,
+  "organizationId": "demo-firma-ab"
+}

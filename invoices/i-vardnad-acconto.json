@@ -1,0 +1,13 @@
+{
+  "id": "i-vardnad-acconto",
+  "matterId": "m-vardnad",
+  "invoiceNumber": "2026-002",
+  "type": "ACCONTO",
+  "status": "SENT",
+  "amountExclVat": 1200000,
+  "vat": 300000,
+  "amountInclVat": 1500000,
+  "issuedAt": "2026-03-10T00:00:00.000Z",
+  "dueAt": "2026-04-10T00:00:00.000Z",
+  "organizationId": "demo-firma-ab"
+}

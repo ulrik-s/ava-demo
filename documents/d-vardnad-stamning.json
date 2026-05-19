@@ -1,0 +1,14 @@
+{
+  "id": "d-vardnad-stamning",
+  "matterId": "m-vardnad",
+  "fileName": "Stämningsansökan vårdnad.pdf",
+  "mimeType": "application/pdf",
+  "sizeBytes": 184320,
+  "storagePath": "demo/d-vardnad-stamning.pdf",
+  "documentType": "Stämningsansökan",
+  "summary": "Yrkanden: ensam vårdnad samt umgängesrätt. Grunder: samarbetssvårigheter och bristande omsorg.",
+  "uploadedAt": "2026-02-20T00:00:00.000Z",
+  "uploadedById": "u-anna",
+  "organizationId": "demo-firma-ab",
+  "analysisStatus": "COMPLETED"
+}

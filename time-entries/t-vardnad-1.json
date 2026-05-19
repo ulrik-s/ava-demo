@@ -1,0 +1,11 @@
+{
+  "id": "t-vardnad-1",
+  "matterId": "m-vardnad",
+  "userId": "u-anna",
+  "date": "2026-02-15T00:00:00.000Z",
+  "minutes": 60,
+  "description": "Inledande klientmöte, genomgång av sakomständigheter.",
+  "billable": true,
+  "hourlyRate": 2800,
+  "organizationId": "demo-firma-ab"
+}

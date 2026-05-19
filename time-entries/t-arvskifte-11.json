@@ -1,0 +1,11 @@
+{
+  "id": "t-arvskifte-11",
+  "matterId": "m-arvskifte",
+  "userId": "u-anna",
+  "date": "2025-12-15T00:00:00.000Z",
+  "minutes": 240,
+  "description": "Färdigställande av bouppteckning.",
+  "billable": true,
+  "hourlyRate": 2800,
+  "organizationId": "demo-firma-ab"
+}

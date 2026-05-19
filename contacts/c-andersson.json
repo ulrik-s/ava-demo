@@ -4,5 +4,6 @@
   "contactType": "PERSON",
   "personalNumber": "19851012-1234",
   "email": "anna.andersson@example.se",
+  "phone": "070-1234567",
   "organizationId": "demo-firma-ab"
 }

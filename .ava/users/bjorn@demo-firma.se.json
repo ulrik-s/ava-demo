@@ -4,5 +4,6 @@
   "name": "Björn Biträde",
   "role": "ASSISTANT",
   "sshPublicKeys": [],
+  "hourlyRate": 1800,
   "organizationId": "demo-firma-ab"
 }

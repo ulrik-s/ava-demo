@@ -1,0 +1,10 @@
+{
+  "id": "e-vardnad-anstmavg",
+  "matterId": "m-vardnad",
+  "userId": "u-anna",
+  "date": "2026-02-20T00:00:00.000Z",
+  "amount": 90000,
+  "description": "Ansökningsavgift tingsrätten",
+  "billable": true,
+  "organizationId": "demo-firma-ab"
+}

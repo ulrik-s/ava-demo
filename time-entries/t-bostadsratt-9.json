@@ -1,0 +1,11 @@
+{
+  "id": "t-bostadsratt-9",
+  "matterId": "m-bostadsratt",
+  "userId": "u-anna",
+  "date": "2026-03-12T00:00:00.000Z",
+  "minutes": 60,
+  "description": "Brev till BRF med kompletterande argumentation.",
+  "billable": true,
+  "hourlyRate": 2800,
+  "organizationId": "demo-firma-ab"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "t-vardnad-3",
+  "matterId": "m-vardnad",
+  "userId": "u-anna",
+  "date": "2026-02-20T00:00:00.000Z",
+  "minutes": 180,
+  "description": "Författande av stämningsansökan.",
+  "billable": true,
+  "hourlyRate": 2800,
+  "organizationId": "demo-firma-ab"
+}

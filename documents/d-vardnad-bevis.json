@@ -1,0 +1,13 @@
+{
+  "id": "d-vardnad-bevis",
+  "matterId": "m-vardnad",
+  "fileName": "Bevisförteckning.docx",
+  "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "sizeBytes": 28672,
+  "storagePath": "demo/d-vardnad-bevis.docx",
+  "documentType": "Bevisförteckning",
+  "uploadedAt": "2026-04-02T00:00:00.000Z",
+  "uploadedById": "u-bjorn",
+  "organizationId": "demo-firma-ab",
+  "analysisStatus": "PENDING"
+}

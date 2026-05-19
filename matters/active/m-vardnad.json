@@ -3,6 +3,9 @@
   "matterNumber": "2026-0001",
   "title": "Vårdnadstvist Andersson / Persson",
   "status": "ACTIVE",
+  "matterType": "Familjerätt",
+  "description": "Vårdnadsmål rörande gemensam dotter (4 år). Klient yrkar ensam vårdnad pga samarbetssvårigheter.",
   "organizationId": "demo-firma-ab",
-  "notes": "Möte med klient den 14 maj. Genomgång av handlingar och första kontakt med motpart inplanerat."
+  "notes": "Möte med klient den 14 maj. Genomgång av handlingar och första kontakt med motpart inplanerat.",
+  "createdAt": "2026-02-15T00:00:00.000Z"
 }

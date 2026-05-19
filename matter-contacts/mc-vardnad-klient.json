@@ -1,0 +1,8 @@
+{
+  "id": "mc-vardnad-klient",
+  "matterId": "m-vardnad",
+  "contactId": "c-andersson",
+  "role": "KLIENT",
+  "organizationId": "demo-firma-ab",
+  "createdAt": "2026-02-15T00:00:00.000Z"
+}

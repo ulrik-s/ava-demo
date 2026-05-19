@@ -4,5 +4,6 @@
   "name": "Anna Advokat",
   "role": "LAWYER",
   "sshPublicKeys": [],
+  "hourlyRate": 2800,
   "organizationId": "demo-firma-ab"
 }

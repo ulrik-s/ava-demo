@@ -1,16 +1,16 @@
 # AVA Demo Data
 
-Det här är ett demo-repo med fiktiv data för att visa upp AVA i en
-webbläsare utan att behöva sätta upp en server.
-
-## Använda
-
-I AVA-demo-läget, ange den här repo-url:en (HTTPS) och klicka "Ladda demo".
+Fiktiv data för att demonstrera AVA i webbläsaren utan en server.
 
 ## Innehåll
 
-- 3 ärenden (matters/active/)
-- 5 kontakter (contacts/)
-- 2 användare (.ava/users/)
+- 2 × `.ava/`
+- 7 × `contacts/`
+- 3 × `matters/`
+- 8 × `matter-contacts/`
+- 7 × `documents/`
+- 13 × `time-entries/`
+- 3 × `expenses/`
+- 2 × `invoices/`
 
-Alla namn och personnummer är fiktiva.
+Alla namn, personnummer och dokument-innehåll är fiktiva.
