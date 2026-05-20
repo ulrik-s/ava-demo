@@ -1,0 +1,29 @@
+{
+  "matterId": "m-vardnad",
+  "contactId": "mpeg91mm-3qn88q",
+  "role": "MOTPART",
+  "notes": "",
+  "id": "mpeg91mz-o4y1oe",
+  "createdAt": "2026-05-20T19:23:10.859Z",
+  "updatedAt": "2026-05-20T19:23:10.859Z",
+  "contact": {
+    "name": "sfdsfd",
+    "contactType": "PERSON",
+    "personalNumber": "12121212-1212",
+    "orgNumber": "",
+    "email": "",
+    "phone": "",
+    "organizationId": "demo-firma-ab",
+    "id": "mpeg91mm-3qn88q",
+    "createdAt": "2026-05-20T19:23:10.846Z",
+    "updatedAt": "2026-05-20T19:23:10.846Z"
+  },
+  "matter": {
+    "id": "m-vardnad",
+    "matterNumber": "2026-0001",
+    "title": "Vårdnadstvist Andersson / Persson",
+    "status": "ACTIVE",
+    "organizationId": "demo-firma-ab",
+    "notes": "Möte med klient den 14 maj. Genomgång av handlingar och första kontakt med motpart inplanerat."
+  }
+}
