@@ -1,0 +1,22 @@
+{
+  "id": "d-mpf16lzi-87a1x5",
+  "matterId": "m-vardnad",
+  "fileName": "Polisen_sfi_ordlista.pdf",
+  "mimeType": "application/pdf",
+  "sizeBytes": 38607,
+  "storagePath": "documents/content/d-mpf16lzi-87a1x5.pdf",
+  "folderId": null,
+  "organizationId": "demo-firma-ab",
+  "analysisStatus": "PENDING",
+  "uploadedById": "current-user",
+  "createdAt": "2026-05-21T05:09:09.205Z",
+  "updatedAt": "2026-05-21T05:09:09.205Z",
+  "matter": {
+    "id": "m-vardnad",
+    "matterNumber": "2026-0001",
+    "title": "Vårdnadstvist Andersson / Persson",
+    "status": "ACTIVE",
+    "organizationId": "demo-firma-ab",
+    "notes": "Möte med klient den 14 maj. Genomgång av handlingar och första kontakt med motpart inplanerat."
+  }
+}
