@@ -1,9 +1,0 @@
-{
-  "id": "u-anna",
-  "email": "anna@demo-firma.se",
-  "name": "Anna Advokat",
-  "role": "LAWYER",
-  "sshPublicKeys": [],
-  "hourlyRate": 2800,
-  "organizationId": "demo-firma-ab"
-}
